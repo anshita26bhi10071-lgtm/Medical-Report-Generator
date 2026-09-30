@@ -1,6 +1,6 @@
-# Medical History Report Generator - Project Statement
+Medical History Report Generator - Project Statement
 
-## Problem Statement
+Problem Statement
 
 Medical information can be difficult to organize when it is recorded in
 different places or in an unstructured manner. Information such as previous
@@ -16,9 +16,7 @@ entered by the user.
 The system does not diagnose diseases or provide medical treatment
 recommendations.
 
----
-
-## Scope
+Scope
 
 The project supports:
 
@@ -36,9 +34,7 @@ The project supports:
 - Generating a structured medical-history report
 - Storing information in a CSV file
 
----
-
-## Target Users
+Target Users
 
 The intended users are:
 
@@ -47,11 +43,9 @@ The intended users are:
 - Users demonstrating a beginner-level software project
 - Students working on healthcare-related software concepts
 
----
+High-Level Features
 
-## High-Level Features
-
-### Patient Registration
+Patient Registration
 
 The system collects basic patient information such as:
 
@@ -60,7 +54,7 @@ The system collects basic patient information such as:
 - Age
 - Gender
 
-### Medical History
+Medical History
 
 The system records:
 
@@ -72,7 +66,7 @@ The system records:
 - Current symptoms
 - Lifestyle information
 
-### Patient Management
+Patient Management
 
 Users can:
 
@@ -80,22 +74,20 @@ Users can:
 - Update patients
 - Delete patients
 
-### Medical Report Generation
+Medical Report Generation
 
 The system creates a structured report using the information provided by
 the user.
 
-### Data Storage
+Data Storage
 
 Patient records are stored in a CSV file.
 
-### Validation
+Validation
 
 The system performs basic validation of names and ages.
 
----
-
-## Technologies Used
+Technologies Used
 
 - Python
 - CSV file handling
@@ -108,11 +100,7 @@ The system performs basic validation of names and ages.
 - Modular programming
 - GitHub
 
----
-
-## Medical Safety Note
-
-This project is intended for educational purposes.
+Medical Safety Note
 
 It organizes information provided by the user and does not diagnose medical
 conditions, prescribe medicines, or replace professional medical advice.
